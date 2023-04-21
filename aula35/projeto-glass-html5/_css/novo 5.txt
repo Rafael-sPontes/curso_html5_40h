@@ -1,0 +1,8 @@
+width: 400px;
+height: 400px;
+
+
+
+<figcaption>
+	<p class="cover">Logo VHSテープリワインダー</p>
+</figcaption>
